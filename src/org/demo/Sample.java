@@ -6,5 +6,8 @@ public class Sample {
 		
 		System.out.println("conflict demo");
 	}
+	private void payment() {
+		System.out.println("This is Shudeep working on Payment module");
+	}
 
 }
