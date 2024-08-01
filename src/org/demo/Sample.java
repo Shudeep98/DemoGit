@@ -6,8 +6,11 @@ public class Sample {
 		
 		System.out.println("conflict demo");
 	}
+	private void addToCart() {
+		System.out.println("This is Amarnath working on add to cart");
+	}
 	private void payment() {
 		System.out.println("This is Shudeep working on Payment module");
 	}
-
+	
 }
